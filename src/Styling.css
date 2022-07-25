@@ -1,0 +1,28 @@
+button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 7.5px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    margin: 2px 1px;
+    cursor: pointer;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 75%; 
+  }
+  
+  thead, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+  
+  thead {
+    background-color: #04AA6D;
+    color: white;
+  }
